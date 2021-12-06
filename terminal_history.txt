@@ -1,0 +1,804 @@
+   50  conda list
+   51  conda list
+   52  anaconda-navigator
+   53  export PATH="/home/username/miniconda/bin:$PATH"
+   54  conda list
+   55  ls /home/
+   56  ls /
+   57  ls /home
+   58  ls /Users/shivangigupta/
+   59  find miniconda
+   60  find miniconda
+   61  conda list
+   62  /opt/anaconda3
+   63  sudo rm -r /opt/anaconda3
+   64  sudo rm -r /opt/anaconda3
+   65  conda list
+   66  cd desktop
+   67  mkdir shiv
+   68  touch shivangi.txt
+   69  mv shivangi.txt shiv
+   70  ls shiv
+   71  git 
+   72  git --help
+   73  conda activate dev
+   74  conda --help
+   75  conda deactivate
+   76  echo $shell
+   77  echo $Shell
+   78  echo $SHELL
+   79  conda init zsh
+   80  conda --version
+   81  conda update conda
+   82  conda --version
+   83  conda create -n dev python=3.7 anaconda
+   84  vscode
+   85  code
+   86  vs code --
+   87  which vscode
+   88  which vs
+   89  which code
+   90  which python
+   91  python --version
+   92  pwd
+   93  cd desktop
+   94  ls desktop
+   95  cd Desltop
+   96  ls Desktop
+   97  cd Desktop
+   98  pwd
+   99  ls desktop
+  100  pwd
+  101  cd Desktop
+  102  pwd
+  103  ls Desktop
+  104  cd..
+  105  cd ..
+  106  ls Desktop
+  107  cd Desktop
+  108  ls
+  109  mkdir Fintech Workspace
+  110  ls
+  111  ls Fintech Workspace
+  112  cd ..
+  113  cd ~
+  114  pwd
+  115  rm -r Desktop/Workspace
+  116  rm -r Desktop/shiv
+  117  rm Desktop/Screen\ Shot\ 2021-11-10
+  118  rm Desktop/Screen\ Shot\ 2021-11-22\ at\ 5.10.01\ PM.png
+  119  cd ~
+  120  cd Desktop
+  121  cd Fintech
+  122  pwd
+  123  cd Desktop/Fintech
+  124  ls
+  125  cd Python_Project
+  126  conda activate dev
+  127  code .
+  128  python hello_python.py
+  129  conda deactivate
+  130  which cd
+  131  which conda
+  132  which python
+  133  echo $PATH
+  134  echo $PATH
+  135  pwd
+  136  cd Desktop/Fintech
+  137  touch age
+  138  conda activate dev
+  139  code .
+  140  python age
+  141  python age.py
+  142  python age.py
+  143  conda deactivate
+  144  cd ~
+  145  cd Desktop/Fintech/
+  146  conda activate dev
+  147  python age.py
+  148  python age.py
+  149   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49834 -- /Users/shivangigupta/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  150   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49896 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/hello_python.py 
+  151   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49908 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/movie_star.py 
+  152   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49923 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/hello_python.py 
+  153   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49933 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/movie_star.py 
+  154   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50193 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  155   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50224 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  156   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50246 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  157   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50265 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/hello_python.py 
+  158   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50272 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  159   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50292 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  160  conda deactivate
+  161   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49838 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loan.py 
+  162   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49846 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loan.py 
+  163   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49881 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loan.py 
+  164   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49997 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  165   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50005 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  166   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50012 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  167   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50021 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  168   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50030 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  169   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50038 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  170   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50045 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/lists.py 
+  171   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50234 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  172  m cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50248 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  173   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50258 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  174   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50269 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  175   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50762 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  176   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50787 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  177   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50795 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  178   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50804 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  179   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50813 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  180   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50910 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  181   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50917 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  182   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50924 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  183   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50946 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  184   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50971 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  185   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50990 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  186   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51010 -- /Users/shivangigupta/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py 
+  187   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51197 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  188   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51211 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  189   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51224 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  190   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51232 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  191   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51238 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/my_stock.py 
+  192   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51287 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/true_false.py 
+  193   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51294 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/true_false.py 
+  194  code  .
+  195  code .
+  196  conda activate dev
+  197  pwd
+  198  cd Desktop/Fintech/
+  199  python mystock.py
+  200  $ ls -al ~/.ssh\n
+  201  ls -al ~/.ssh
+  202  pwd
+  203  cd Desktop
+  204  cd Favorites
+  205  cd Downloads
+  206  ls
+  207  cd Class_1_Activities
+  208  ls
+  209  cd 02_Stu_Percent_Increase/python percent_increase.py
+  210   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51387 -- /Users/shivangigupta/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  211   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51419 -- /Users/shivangigupta/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py 
+  212   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52584 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/02_Stu_Percent_Increase/Unsolved/percent_increase.py" 
+  213   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 53080 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  214   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 53192 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  215   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 53325 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  216   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54220 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  217   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54265 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  218   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54433 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  219   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54605 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  220   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54691 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  221   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55557 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py" 
+  222   cd "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57086 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py" 
+  223   cd "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57097 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py" 
+  224   cd "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57106 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py" 
+  225   cd "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57123 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py" 
+  226   cd "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57133 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py" 
+  227   cd "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57142 -- "/Users/shivangigupta/Downloads/Class_1_Activities 3/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py" 
+  228   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57833 -- /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  229   cd /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57837 -- /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  230   cd /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57865 -- /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  231   cd /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57874 -- /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  232   cd /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57884 -- /Users/shivangigupta/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  233  cd Downloads
+  234  ls
+  235  cd 01_Conditional_Statement
+  236  ls
+  237  ls unsolved
+  238  python conditional_statement.py
+  239  cd unsolved
+  240  conda activate dev
+  241  python conditional_statement.py
+  242  cd ..
+  243  cd ..
+  244  cd 02_Nested_Conditionals
+  245  ls
+  246  ls Unsolved
+  247  cd Unsolved
+  248  python nested_conditionals.py
+  249  python nested_conditionals.py
+  250  python nested_conditionals.py
+  251  python nested_conditionals.py
+  252  python nested_conditionals.py
+  253  python nested_conditionals.py
+  254  python nested_conditionals.py
+  255  python nested_conditionals.py
+  256  python nested_conditionals.py
+  257  pwd
+  258  cd ..
+  259  cd ..
+  260  ls
+  261  cd 03_Split_Second_Homebuying
+  262  ls
+  263  cd Unsolved
+  264  ls
+  265  python split_second_homebuying.py
+  266  python split_second_homebuying.py
+  267  python split_second_homebuying.py
+  268  python split_second_homebuying.py
+  269  python split_second_homebuying.py
+  270  python split_second_homebuying.py
+  271  python split_second_homebuying.py
+  272  python split_second_homebuying.py
+  273  python split_second_homebuying.py
+  274   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 58245 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  275   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 58299 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  276   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 58329 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  277   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 58342 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  278   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 58561 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  279   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 58576 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  280   cd /Users/shivangigupta/Downloads/Class_2_Activities/05_Stu_Conditionals/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59084 -- /Users/shivangigupta/Downloads/Class_2_Activities/05_Stu_Conditionals/Unsolved/conditionals.py 
+  281   cd "/Users/shivangigupta/Downloads/Class_2_Activities 5/07_Stu_Functions/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59194 -- "/Users/shivangigupta/Downloads/Class_2_Activities 5/07_Stu_Functions/Unsolved/functions.py" 
+  282   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59344 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Solved/loops.py" 
+  283   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59349 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Unsolved/loops.py" 
+  284   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59361 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Unsolved/loops.py" 
+  285   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Unsolved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59369 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/09_Stu_Loops/Unsolved/loops.py" 
+  286   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59679 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  287   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59685 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  288   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59692 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  289   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59699 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  290   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59707 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  291   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59714 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  292   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59728 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  293   cd "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59755 -- "/Users/shivangigupta/Downloads/Class_2_Activities 6/07_Stu_Functions/Solved/functions.py" 
+  294   cd /Users/shivangigupta/Downloads/01_A_Definitive_Buy/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59832 -- /Users/shivangigupta/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  295   cd /Users/shivangigupta/Downloads/01_A_Definitive_Buy/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59952 -- /Users/shivangigupta/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  296   cd /Users/shivangigupta/Downloads/01_A_Definitive_Buy/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59963 -- /Users/shivangigupta/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  297   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59968 -- /Users/shivangigupta/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  298   cd /Users/shivangigupta/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60061 -- /Users/shivangigupta/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  299   cd /Users/shivangigupta/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60076 -- /Users/shivangigupta/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  300   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60130 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  301   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60138 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  302   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60152 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  303   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60163 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  304   cd /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60172 -- /Users/shivangigupta/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  305   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60560 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  306   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60569 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  307   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60597 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  308   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60618 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  309   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60632 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  310   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60640 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  311   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60646 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  312   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60654 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  313   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60661 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  314   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60695 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  315   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60705 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  316   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60723 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  317   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60746 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  318   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60766 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/loop.py 
+  319   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60808 -- /Users/shivangigupta/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  320   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60829 -- /Users/shivangigupta/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  321   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60838 -- /Users/shivangigupta/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  322   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60845 -- /Users/shivangigupta/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py 
+  323   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62003 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  324   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62015 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  325   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62045 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  326   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62050 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  327   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62068 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  328   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62078 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  329   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62103 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  330   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62110 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  331   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62115 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  332   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62154 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  333   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62163 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  334   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62168 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  335   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62178 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  336   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62185 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  337   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62192 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  338   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62199 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  339   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62203 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  340   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62211 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/nested_containers.py 
+  341   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62363 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  342   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62370 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  343   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62380 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  344   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62386 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  345   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62529 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  346   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62533 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  347   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62543 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  348   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62551 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  349   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62565 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  350   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62573 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  351   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62582 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  352  /usr/local/bin/python3 /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  353  ls
+  354  pwd
+  355  /usr/local/bin/python3 /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  356  pwd
+  357  cd /Users/shivangigupta/Desktop/Fintech/Python_Project/
+  358  ls
+  359   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62677 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  360   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62738 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  361   cd /Users/shivangigupta/Desktop/Fintech/Python_Project ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62755 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py 
+  362  /usr/local/bin/python3 /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  363  pwd
+  364  cd Solved
+  365   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62839 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py 
+  366  pwd
+  367  cd Solved
+  368   cd /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62845 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py 
+  369   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62866 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py 
+  370   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62898 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py 
+  371   cd /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62905 -- /Users/shivangigupta/Downloads/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py 
+  372   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63120 -- /Users/shivangigupta/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  373   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63127 -- /Users/shivangigupta/Downloads/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py 
+  374   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63133 -- /Users/shivangigupta/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  375   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63140 -- /Users/shivangigupta/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  376   cd /Users/shivangigupta/Desktop/Fintech ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63149 -- /Users/shivangigupta/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  377   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63472 -- /Users/shivangigupta/Desktop/GitHub_Upload/main.py 
+  378   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63569 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  379   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63586 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  380   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 63593 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  381   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 65084 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  382   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49604 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  383   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51302 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  384   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51552 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  385   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52453 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  386   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52524 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  387   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 53642 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  388   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 53969 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  389   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54020 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  390   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 54522 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  391  conda activate dev
+  392  pip -v
+  393  pip freeze
+  394  pip -V
+  395  pip install fire
+  396  pip install questionary
+  397  pwd
+  398  cd Desktop/Fintech
+  399  ls
+  400  cd Python_Project
+  401  touch usd_btc.py
+  402  cd Downloads
+  403  ls
+  404  cd 01_Loan_Qualifier_Financial_Calculations
+  405  pwd
+  406  ls
+  407  cd Unsolved
+  408  cd..
+  409  cd ..
+  410  pwd
+  411  cd ..
+  412  cd ..
+  413  cd ..
+  414  pwd
+  415  cd ..
+  416  cd ..
+  417  cd Users/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved
+  418  ls
+  419  less ~/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/data/daily_rate_sheet.csv
+  420  cd /Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/data/
+  421  pwd
+  422  cd ~/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/data/
+  423  pwd
+  424  /usr/local/bin/python3
+  425   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55247 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  426   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 55263 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  427   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56243 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  428   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56663 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  429   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56726 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  430   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 56957 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  431   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57158 -- /Users/shivangigupta/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  432   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 57866 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  433   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59290 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  434   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59465 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  435   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59687 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  436   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59782 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  437   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59813 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  438   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59880 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  439   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 59921 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  440   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 60108 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  441   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61179 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  442   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61343 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  443   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61413 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  444   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61577 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  445   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61695 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  446   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 61736 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  447   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62655 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  448   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62739 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  449   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62759 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  450   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62774 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  451   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 62945 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  452   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64349 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  453   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64554 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  454   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64584 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  455   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 64591 -- /Users/shivangigupta/Desktop/GitHub_Upload/challenge1_loan_analyzer.py 
+  456   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 65405 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/usd_btc.py 
+  457   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 65439 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/usd_btc.py 
+  458   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 65443 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/usd_btc.py 
+  459   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 65451 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/usd_btc.py 
+  460   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 65460 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/usd_btc.py 
+  461   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 65472 -- /Users/shivangigupta/Desktop/Fintech/Python_Project/usd_btc.py 
+  462   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49236 -- /Users/shivangigupta/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  463   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49280 -- /Users/shivangigupta/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  464   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49415 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  465   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49422 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  466   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49430 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  467   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49443 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  468   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49450 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  469   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49460 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  470   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49534 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  471   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49558 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  472   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49603 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py 
+  473   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49612 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  474   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49622 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  475   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49635 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  476   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49640 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  477   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49647 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  478   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49655 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  479   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49683 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  480   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49690 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Solved/app.py 
+  481   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49704 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  482   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49721 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  483   cd /Users/shivangigupta/Desktop/GitHub_Upload ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 49728 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  484   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 50533 -- /Users/shivangigupta/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  485  pwd
+  486  cd Downloads/02_Loan_Qualifier_Filtering_Data
+  487  ls
+  488  cd Unsolved
+  489  ls
+  490  cd qualifier
+  491  ls
+  492  cdb ..
+  493  cd ..
+  494  conda activate dev
+  495  python app.py
+  496   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51282 -- /Users/shivangigupta/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  497   cd /Users/shivangigupta/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51289 -- /Users/shivangigupta/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  498   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51948 -- "/Users/shivangigupta/Downloads/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py" 
+  499   cd /Users/shivangigupta/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51981 -- "/Users/shivangigupta/Downloads/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py" 
+  500   cd /Users/shivangigupta/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 51989 -- "/Users/shivangigupta/Downloads/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py" 
+  501   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52020 -- "/Users/shivangigupta/Downloads/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py" 
+  502   cd "/Users/shivangigupta/Downloads/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/02-lists-01" ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52030 -- "/Users/shivangigupta/Downloads/Class_1_Activities 4/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py" 
+  503   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52081 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py 
+  504   cd /Users/shivangigupta/Downloads/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52106 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py 
+  505   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52171 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py 
+  506   cd /Users/shivangigupta/Downloads/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52177 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py 
+  507   cd /Users/shivangigupta/Downloads/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52282 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py 
+  508   cd /Users/shivangigupta/Downloads/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52290 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py 
+  509   cd /Users/shivangigupta/Downloads/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52297 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py 
+  510   /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52554 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+  511   cd /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52579 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+  512   cd /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52587 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+  513   cd /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52595 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+  514   cd /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52605 -- /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py 
+  515   cd /Users/shivangigupta/Downloads/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01 ; /usr/bin/env /usr/local/bin/python3 /Users/shivangigupta/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/lib/python/debugpy/launcher 52782 -- /Users/shivangigupta/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  516  pip install fire
+  517  pwd
+  518  cd Desktop/Fintech/Python_Project
+  519  ls
+  520  conda activate dev
+  521  python cli.py
+  522  ls
+  523  python cli.py
+  524  python cli.py
+  525  python cli.py pants ==True
+  526  python cli.py --pants=True
+  527  python cli.py --pants=False
+  528  python cli.py
+  529  pwd
+  530  cd Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App
+  531  ls
+  532  cd Unsolved
+  533  ls
+  534  python app.py
+  535  python app.py
+  536  python app.py
+  537  python app.py
+  538  python app.py
+  539  python app.py --credit_score =750
+  540  python app.py --credit_score =750
+  541  python app.py --credit_score=750
+  542  python app.py --credit_score=750 --debt=5000 --income=60000
+  543  pip install questionary
+  544  pwd
+  545  cd Desktop/Fintech/Python_Project
+  546  ls
+  547  python dialog.py
+  548  python dialog.py
+  549  python dialog.py
+  550  python dialog.py
+  551  python dialog.py
+  552  pwd
+  553  cd Downloads
+  554  pwd
+  555  cd Downloads/02_Adding_questionary_to_Loan_Qualifier
+  556  ls
+  557  cd Unsolved
+  558  lsa
+  559  ls
+  560  python app.py --credit_score=750 --debt=5000 --income=20000
+  561  cd..
+  562  pwd
+  563  python app.py
+  564  python app.py
+  565  pwd
+  566  cd Downloads
+  567  ls
+  568  cd 02_Adding_questionary_to_Loan_Qualifier
+  569  ls
+  570  cd Unsolved
+  571  python app.py
+  572  cd..
+  573  cd ..
+  574  cd Solved
+  575  ls
+  576  python app.py
+  577  cd ..
+  578  cd Unsolved
+  579  python app.py
+  580  python app.py
+  581  python app.py
+  582  cd ..
+  583  cd Solved
+  584  python app.py
+  585  cd ..
+  586  cd Unsolved
+  587  python app.py
+  588  python app.py
+  589  python app.py
+  590  git config --global user.name Shivangi Gupta
+  591  git config --global user.email shivangigupta.india@gmail.com
+  592  git config --list\n
+  593  pwd
+  594  cd Desktop/GitHub_Upload
+  595  git clone https://github.com/shivangiuw/Fintech.git
+  596  cd Fintech
+  597  git status
+  598  git status
+  599  git add README.md\n
+  600  git status
+  601  /usr/local/bin/python3 /Users/shivangigupta/Desktop/Fintech/Python_Project/cli.py
+  602  conda create -n atmdev python=3.7 anaconda
+  603  cd Desktop/GitHub_Upload/Fintech
+  604  git clone https://github.com/shivangiuw/atm.git
+  605  git status
+  606  git add
+  607  cd Desktop/GitHub_Upload/Fintech
+  608  ls
+  609  cd README.md
+  610  git status
+  611  touch new
+  612  ls
+  613  git status
+  614  git add new
+  615  git status
+  616  git commit -m"edited readme and added newfile"
+  617  git status
+  618  git push
+  619  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  620  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  621  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  622  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  623  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  624  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Solved/atm/atm.py
+  625  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  626  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  627  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  628  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  629  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  630  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  631  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  632  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  633  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  634  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  635  /usr/local/bin/python3 /Users/shivangigupta/Downloads/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  636  /usr/local/bin/python3 "/Users/shivangigupta/Downloads/05_Stu_ATM_Modularization 2/Solved/atm/atm.py"
+  637  /usr/local/bin/python3 "/Users/shivangigupta/Downloads/05_Stu_ATM_Modularization 2/Solved/atm/atm.py"
+  638  pwd
+  639  cd Desktop/GitHub_Upload/Fintech
+  640  ls
+  641  git status
+  642  git push
+  643  pwd
+  644  cd Download
+  645  cd Downloads
+  646  cd ..
+  647  cd..
+  648  cd ..
+  649  cd ..
+  650  cd Downloads
+  651  ls
+  652  cd 02_Stu_Build_ATM_Functions
+  653  ls
+  654  cd Unsolved
+  655  ls
+  656  cd atm
+  657  mkdir actions
+  658  conda activate atmdev
+  659  python atm.py
+  660  pwd
+  661  python atm.py
+  662  python atm.py
+  663  python atm.py
+  664  python atm.py
+  665  python atm.py
+  666  conda create -n atmdev python=3.7 anaconda
+  667  pwd
+  668  cd .
+  669  cd ..
+  670  cd ..
+  671  cd ..
+  672  ls
+  673  cd 02_Stu_Build_ATM_Functions 2
+  674  ls
+  675  cd 02 _Stu_Build_ATM_Functions 2
+  676  cd 02 _Stu_Build_ATM_Functions2
+  677  pwd
+  678  cd Downloads
+  679  ls
+  680  cd 02_Stu_Build_ATM_Functions 2
+  681  pwd
+  682  ls
+  683  ls
+  684  ls
+  685  cd 02_Stu_Build_ATM_Functions
+  686  ls
+  687  cd Unsolved
+  688  ls
+  689  ls atm
+  690  python atm.py
+  691  conda create -n atmdev python=3.7 anaconda
+  692  conda activate atmdev
+  693  python atm.py
+  694  pwd
+  695  ls
+  696  ls ../Solved
+  697  python atm
+  698  pip install -r requirements.txt
+  699  cd ..
+  700  pip install -r requirements.txt
+  701  cd -
+  702  python atm.py
+  703  python atm
+  704  ls
+  705  cd atm
+  706  python atm.py
+  707  cd Desktop/GitHub_Upload/Fintech
+  708  ls
+  709  git status
+  710  git push
+  711  ssh -T git@github.com
+  712  git push
+  713  git push
+  714  ssh-keygen -t ed25519 -C shivangigupta.india@gmail.com
+  715  SHA256:YJjKMyxinFOO5Q4oLgXL254BcLvSVCJ9vyyF2kaoKeM shivangigupta.india@gmail.com
+  716  eval "$(ssh-agent -s)"
+  717  open ~/.ssh/config
+  718  vi ~/.ssh/config
+  719  touch ~/.ssh/config
+  720  vi ~/.ssh/config
+  721  ssh-add
+  722  eval "$(ssh-agent -s)"
+  723  open ~/.ssh/config
+  724  ssh-add -K ~/.ssh/id_ed25519
+  725  git status
+  726  git push
+  727  git push
+  728  git push
+  729  git push
+  730   ssh -T git@github.com
+  731  git config --global user.name  shivangiuw
+  732  git config --global user.email shivangigupta.india@gmail.com
+  733   ssh -T git@github.com
+  734  git push
+  735  git push
+  736  git log
+  737  git status
+  738  git add README.md
+  739  git commit -m"edited readme and added newfile"
+  740  git status
+  741  git push
+  742  pwd
+  743  cd Desktop/GitHub_Upload/loan_qualifier
+  744  git clone https://github.com/shivangiuw/Challenge2_loan_qualifier.git
+  745  git status
+  746  cd ..
+  747  cd ..
+  748  cd Desktop/GitHub_Upload
+  749  git clone https://github.com/shivangiuw/Challenge2_loan_qualifier.git
+  750  git status
+  751  ls
+  752  cd Challenge2_loan_qualifier
+  753  pwd
+  754  cd Desktop/GitHub_Upload/
+  755  ls
+  756  cd Challenge2_loan_qualifier
+  757  ls
+  758  cd README.md
+  759  pwd
+  760  git add README.md
+  761  git statsu
+  762  git status
+  763  git commit -summary written
+  764  git commit -m"summary written"
+  765  git push
+  766  ls
+  767  cd data/
+  768  pwd
+  769  ls
+  770  cd Downloads/Starter_Code/loan_qualifier_app/
+  771  conda activate dev
+  772  python app.py
+  773  python app.py
+  774  python app.py
+  775  less /Users/shivangigupta/Downloads//results.csv
+  776  python app.py
+  777  python app.py
+  778  python app.py
+  779  python app.py
+  780  python app.py
+  781  python app.py
+  782  less /Users/shivangigupta/Downloads/results.csv
+  783  cd ~/Downloads/Starter_Code/
+  784  ls
+  785  cd loan_qualifier_app
+  786  ls
+  787  conda activate dev
+  788  python app.py
+  789  800
+  790  5000
+  791  50000
+  792  python app.py
+  793  cd ~/Downloads/Starter_Code/
+  794  cd loan_qualifier_app
+  795  conda activate dev
+  796  python app.py
+  797  python app.py
+  798  /usr/local/bin/python3
+  799  cd ~/Downloads/Starter_Code/loan_qualifier_app
+  800  conda activate dev
+  801  python app.py
+  802  python app.py
+  803  python app.py
+  804  less /Users/shivangigupta/Downloads/results.csv
+  805  cd ~/Desktop/GitHub_Upload/Challenge2_loan_qualifier/
+  806  git status
+  807  git add README.md app.py data qualifier
+  808  git status
+  809  git commit -m "Implemented save_qualifying_loans function and initial comments"
+  810  git status
+  811  git log
+  812  history 50
+  813  conda activate dev
+  814  python app.py
+  815  python app.py
+  816  python app.py
+  817  ls /Users/shivangigupta/Downloads
+  818  less /Users/shivangigupta/Downloads/results_2.csv
+  819  less /Users/shivangigupta/Downloads/results_1.csv
+  820  pwd
+  821  cd ~/Desktop/GitHub_Upload/challenge2_clone/Challenge2_loan_qualifier
+  822  git status
+  823  git add README.md
+  824  git commit -m "Updated readme file"
+  825  git status
+  826  git add data
+  827  git add images
+  828  git status
+  829  git add app.py
+  830  git status
+  831  git add images
+  832  git status
+  833  git commit -m "Adding output results csv and screenshots of application run with different user input"
+  834  git status
+  835  git push
+  836  git status
+  837  git add images
+  838  git status
+  839  git add README.md
+  840  git status
+  841  git commit -m "Updated the usage section in readme"
+  842  git status
+  843  git push
+  844  git status
+  845  git add README.md
+  846  git add images
+  847  git commit -m "Update the readme with app design"
+  848  git status
+  849  git push
+  850  sit satus
+  851  sit status
+  852  git status
+  853  pwd
