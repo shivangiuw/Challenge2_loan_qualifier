@@ -12,6 +12,7 @@ import questionary
 from pathlib import Path
 
 from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import save_as_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -22,7 +23,6 @@ from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
-
 
 def load_bank_data():
     """Ask for the file path to the latest banking data and load the CSV file.
@@ -111,6 +111,69 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
 
+    is_save_confirm = questionary.confirm("Do you want to save the list of qualifying loans as CSV?").ask()
+    
+    # if the user chooses yes to save the list as CSV
+    if is_save_confirm:
+
+        # check if there are any qualifying lenders in the result, if none found, exit with message
+        if len(qualifying_loans) < 1:
+            sys.exit("No qualifying lenders found, nothing to save.")
+
+       # else, there are qualifying lenders and user has choosen to save the result, call "save_csv" and ask user for file path 
+        else:
+            header = ["Lender", "Max Loan Amount", "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate"]
+            save_csv(qualifying_loans, header)
+
+    # if the user chooses No to save, exit by calling the function "opt_out_from_saving".
+    else:
+        opt_out_from_saving()        
+
+    
+def is_valid_path(path_to_save):
+    """ validates the directory path entered by the user to save CSV file.
+
+    Args: path_to_save: file path entered by user.
+    """
+
+    # split the path entered by user using "/"
+    path_to_save_tokens = path_to_save.split("/")
+    # join the path tokens except the last
+    dir_path_to_save = "/".join(path_to_save_tokens[:-1])
+    csv_dir_path = Path(dir_path_to_save)
+    # check if directory exists
+    if not csv_dir_path.exists():
+        return "false"
+    else:
+        return "true"
+
+    
+def save_csv(filtered_bank_data, header):
+
+    """ Asks the user to enter path for the location to save the results as CSV file. 
+    """
+
+    path_to_save = questionary.text("Please enter file path to save.").ask()
+
+    # validates the path using "is_valid_path" function and saves the file using provided path,
+    # prints the message that the results are  successfully saved at the given path.
+
+    if is_valid_path(path_to_save) == "true":
+        save_as_csv(path_to_save, filtered_bank_data, header)
+        print("Successfully saved results into " + path_to_save)
+
+    # if path is invalid, ask the user to enter correct path by printing message and recalling function "save_csv"   
+    else:
+        print(f"Oops! Can't find this path: {path_to_save}, Please enter correct path.")
+        save_csv(filtered_bank_data, header) 
+
+## function to exit out, if user doesnot want to proceed with saving the results as CSV
+def opt_out_from_saving():
+
+    """to exit out, if user doesnot want to proceed with saving the results.
+    """
+
+    sys.exit("You entered 'n', not saving as CSV")
 
 def run():
     """The main function for running the script."""

@@ -28,3 +28,21 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+
+
+def save_as_csv(csv_file_path, bank_data, header):
+    """writes the CSV file to path entered.
+
+    Args:
+        csv_file_path: The csv file path.
+        filtered_bank_data: list of qualifying lenders filtered fron bank_data
+        header
+
+    Returns:
+       rows of the qualifying lenders written in CSV file with headers
+    """
+    with open(csv_file_path, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',')
+        writer.writerow(header)
+        for row in bank_data:
+            writer.writerow(row)    
